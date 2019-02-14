@@ -79,5 +79,5 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-package-lock.json package에 대한 security와 관련되어 있기 때문임
+package-lock.json
 
