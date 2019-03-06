@@ -1,2 +1,0 @@
-# awesomeStyle
-Styled Components Study
